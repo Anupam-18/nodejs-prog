@@ -1,0 +1,6 @@
+cat
+dog
+rat
+bat
+dogcatbat
+dograt
